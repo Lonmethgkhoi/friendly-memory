@@ -1,0 +1,5 @@
+OPENAI_API_KEY=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
+require("dotenv").config();
+const configuration = new Configuration({
+  apiKey: process.env.OPENAI_API_KEY,
+});
