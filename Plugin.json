@@ -1,0 +1,8 @@
+{
+  "id": "acode.aihelper",
+  "name": "AI Code Assistant",
+  "version": "1.0.0",
+  "author": "NovaX",
+  "description": "AI hỗ trợ viết code, giải thích, refactor, v.v.",
+  "main": "index.js"
+}
